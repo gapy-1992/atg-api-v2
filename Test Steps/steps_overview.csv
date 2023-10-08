@@ -1,33 +1,27 @@
-Flow ID,Test Steps,Flow Priority
-1,"step 1: Navigate to Page_home
-step 2: Add visual checkpoint at Page_home",High
-2,"step 1: Navigate to Page_docs_getting-started_browser-extension-installation
-step 2: Add visual checkpoint at Page_docs_getting-started_browser-extension-installation",Low
-3,"step 1: Navigate to Page_docs_for-oss-contributors_how-to%20contribute-to-daily-dev
-step 2: Add visual checkpoint at Page_docs_for-oss-contributors_how-to%20contribute-to-daily-dev",Low
-4,"step 1: Navigate to Page_docs_integrations_sharing-bookmarks
-step 2: Add visual checkpoint at Page_docs_integrations_sharing-bookmarks",Low
-5,"step 1: Navigate to Page_docs_key-features_upvotes
-step 2: Add visual checkpoint at Page_docs_key-features_upvotes",Trivial
-6,"step 1: Navigate to Page_docs_customize-your-feed_density
-step 2: Add visual checkpoint at Page_docs_customize-your-feed_density",Trivial
-11,"step 1: Navigate to Page_docs_squads_growing-your-squad
-step 2: Add visual checkpoint at Page_docs_squads_growing-your-squad",Trivial
-16,"step 1: Navigate to Page_docs_customize-your-feed_preferences
-step 2: Add visual checkpoint at Page_docs_customize-your-feed_preferences",Trivial
-10,"step 1: Navigate to Page_docs_key-features_discussions
-step 2: Add visual checkpoint at Page_docs_key-features_discussions",Trivial
-13,"step 1: Navigate to Page_docs_setting-up-your-feed_advanced-filtering-options
-step 2: Add visual checkpoint at Page_docs_setting-up-your-feed_advanced-filtering-options",Trivial
-14,"step 1: Navigate to Page_docs_key-features_search
-step 2: Add visual checkpoint at Page_docs_key-features_search",Trivial
-9,"step 1: Navigate to Page_docs_customize-your-feed_layout
-step 2: Add visual checkpoint at Page_docs_customize-your-feed_layout",Trivial
-7,"step 1: Navigate to Page_docs_intro
-step 2: Add visual checkpoint at Page_docs_intro",Trivial
-12,"step 1: Navigate to Page_docs_squads_managing-your-squad
-step 2: Add visual checkpoint at Page_docs_squads_managing-your-squad",Trivial
-15,"step 1: Navigate to Page_docs_key-features_bookmarks
-step 2: Add visual checkpoint at Page_docs_key-features_bookmarks",Trivial
-8,"step 1: Navigate to Page_docs_customize-your-feed_theme
-step 2: Add visual checkpoint at Page_docs_customize-your-feed_theme",Trivial
+Flow ID,Description,Test Steps,Flow Priority
+1,Verify Home Page Navigation,"step 1: Navigate to Page home
+step 2: Add visual checkpoint at Page home",High
+7,Verify Getting Started Browser Extension Installation Page Navigation,"step 1: Navigate to Page docs getting-started browser-extension-instal
+step 2: Add visual checkpoint at Page docs getting-started browser-extension-instal",Low
+3,Verify Integrations Sharing Bookmarks Page Navigation,"step 1: Navigate to Page docs integrations sharing-bookmarks
+step 2: Add visual checkpoint at Page docs integrations sharing-bookmarks",Trivial
+13,Verify Customize Your Feed Preferences Page Navigation,"step 1: Navigate to Page docs customize-your-feed preferences
+step 2: Add visual checkpoint at Page docs customize-your-feed preferences",Trivial
+9,Verify Squads Growing Your Squad Page Navigation,"step 1: Navigate to Page docs squads growing-your-squad
+step 2: Add visual checkpoint at Page docs squads growing-your-squad",Trivial
+5,Verify Key Features Upvotes Page Navigation,"step 1: Navigate to Page docs key-features upvotes
+step 2: Add visual checkpoint at Page docs key-features upvotes",Trivial
+4,Verify Customize Your Feed Layout Page Navigation,"step 1: Navigate to Page docs customize-your-feed layout
+step 2: Add visual checkpoint at Page docs customize-your-feed layout",Trivial
+6,Verify Key Features Discussions Page Navigation,"step 1: Navigate to Page docs key-features discussions
+step 2: Add visual checkpoint at Page docs key-features discussions",Trivial
+8,Verify For OSS Contributors How To Contribute Page Navigation,"step 1: Navigate to Page docs for-oss-contributors how-to%20contribute
+step 2: Add visual checkpoint at Page docs for-oss-contributors how-to%20contribute",Trivial
+12,Verify Key Features Bookmarks Page Navigation,"step 1: Navigate to Page docs key-features bookmarks
+step 2: Add visual checkpoint at Page docs key-features bookmarks",Trivial
+11,Verify Setting Up Your Feed Advanced Filtering Page Navigation,"step 1: Navigate to Page docs setting-up-your-feed advanced-filtering-
+step 2: Add visual checkpoint at Page docs setting-up-your-feed advanced-filtering-",Trivial
+2,Verify Docs Intro Page Navigation,"step 1: Navigate to Page docs intro
+step 2: Add visual checkpoint at Page docs intro",Trivial
+10,Verify Squads Managing Your Squad Page Navigation,"step 1: Navigate to Page docs squads managing-your-squad
+step 2: Add visual checkpoint at Page docs squads managing-your-squad",Trivial
